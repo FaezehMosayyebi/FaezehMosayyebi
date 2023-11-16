@@ -3,6 +3,7 @@
 *__I'm an AI expert with 3+ years of experience in computer vision and image processing.__*<br>
 
 🔭 I’m currently working on MRI segmentation<br>
+
 🌱 I’m currently learning Medical Image Analysis<br>
 
 📫 How to reach me:<br>
