@@ -2,15 +2,14 @@
 
 *__I'm an AI expert with 3+ years of experience in computer vision and image processing.__*<br>
 
-🔭 I’m currently working on MRI segmentation
-🌱 I’m currently learning Medical Image Analysis
-
+🔭 I’m currently working on MRI segmentation<br>
+🌱 I’m currently learning Medical Image Analysis<br>
 
 📫 How to reach me:<br>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-f1c40f?style=flat-square&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/faezehmosayyebi/)
 [![Email](https://img.shields.io/badge/-Gmail-f1c40f?style=flat-square&logo=Gmail&logoColor=fff)](mailto:faezeh.mosayyebi@gmail.com)
 
-🎉 I’m interested in things related to:<be>
+🎉 I’m interested in things related to:<br>
 ![Computer_Vision](https://img.shields.io/badge/-Computer_Vision-34495e?style=flat-square&logo=Computer_Vision&logoColor=fff)
 ![Image_Processing](https://img.shields.io/badge/-Image_Processing-34495e?style=flat-square&logo=Image_Processing&logoColor=fff)
 ![Deep_Learning](https://img.shields.io/badge/-Deep_Learning-34495e?style=flat-square&logo=Deep_Learning&logoColor=fff)
