@@ -1,6 +1,6 @@
 ### Hi there, It's Faezeh 👋
 
-*__I'm an AI expert with 3+ years of experience in computer vision and image processing.__*<br>
+*__I'm an AI expert with 3+ years of experience in computer vision and image analysis.__*<br>
 
 🔭 I’m currently working on MRI segmentation<br>
 
