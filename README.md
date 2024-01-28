@@ -2,9 +2,9 @@
 
 *__I'm an AI expert with 3+ years of experience in computer vision and image analysis.__*<br>
 
-🔭 I’m currently working on MRI segmentation<br>
+🔭 I’m currently working on Medical Image Analysis<br>
 
-🌱 I’m currently learning Medical Image Analysis<br>
+🌱 I’m currently learning GANs<br>
 
 📫 How to reach me:<br>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-f1c40f?style=flat-square&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/faezehmosayyebi/)
