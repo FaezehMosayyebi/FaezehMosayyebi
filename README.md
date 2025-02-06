@@ -1,6 +1,6 @@
 ### Hi there, It's Faezeh 👋
 
-*__I'm an AI expert with 3+ years of experience in computer vision and image analysis.__*<br>
+*__A computer vision engineer with 5+ years of experience in computer vision and image analysis.__*<br>
 
 📫 How to reach me:<br>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-f1c40f?style=flat-square&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/faezehmosayyebi/)
